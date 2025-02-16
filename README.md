@@ -129,12 +129,6 @@ We welcome contributions to enhance this tool! To contribute:
 
 ---
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Acknowledgments 🙏
 
 - **Regex for Log Parsing:** Inspired by common log parsing techniques.
